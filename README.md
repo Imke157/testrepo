@@ -12,4 +12,10 @@ animal diseased are missed by the surveillance program. The consequence can be t
 
 # Packages
 Packages needed for this script are dplyr, lme4 and optimx
-
+R version 3.6.3
+to install the packages use install.package( "packagename")
+followed by library(packagename) 
+Package versions
+dplyr: 0.8.5
+lme4 : 1.1.21
+optimx: 2020.4.2
